@@ -1,6 +1,15 @@
 # AFIT
 
-The AFIT (Standing for *Arithmetic for IT*) project has for for aim to
+My AFIT Project from EPITA 2026
+
+# Disclaimer
+
+This repository is here in an educational purpose only. Any cheat flag raised on you because you copy any part of these codes cannot be charged on me !!
+To all the students who are working/are going to work on the afit project, gl hf.
+
+# What AFIT means ?
+
+The AFIT (Standing for *Arithmetic for IT*) project has for aim to
 build first standard ciphering algorithms ; main aim being *RSA* and
 *ElGamal* cryptosystems. Among other things we hope that you'll have
 an first understanding of the difficulties underlying the need to use
